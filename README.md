@@ -1,7 +1,7 @@
 
 # HantaDock-ANDV-Gc
 
-**Structure-based virtual screening of candidate inhibitors targeting Andes virus Gc glycoprotein-mediated viral entry**
+**Integrated in silico identification of Apigenin as a candidate lead targeting Andes virus Gc glycoprotein-mediated viral entry**
 
 ---
 
