@@ -1,5 +1,3 @@
-# > Exploratory in silico drug discovery project.  
-# > This repository does not report a validated antiviral treatment. All results are computational hypotheses requiring molecular dynamics and experimental validation.
 
 # HantaDock-ANDV-Gc
 
