@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives / raw compressed outputs
+*.zip
+*.rar
+*.7z
+
+# Large/raw docking outputs
+raw_outputs/
+*/raw_outputs/
+*.tar
+*.gz
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
